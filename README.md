@@ -1,3 +1,14 @@
+
+To create this site i used React, function components. I have used .map method to delete all items from the array (hotel's list). I have used .filter method to remove separate items from the array by id.
+
+Website: https://react-hooks-tophotels.netlify.app/
+
+![React-Hooks-Tophotels](https://github.com/KaSofi/react-hooks-hotels/assets/103929930/f447c0e6-07d6-43f1-a521-2ad6446c7785)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
