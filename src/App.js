@@ -2,6 +2,7 @@
 import './App.css';
 import HotelsOfNewYork from './HotelsOfNewYork';
 import Books from './Books';
+import CityImages from './CityImages';
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
     <div className="App">
       <HotelsOfNewYork/>
       <Books/>
+      <CityImages/>
     </div>
   );
 }
