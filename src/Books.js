@@ -32,7 +32,7 @@ function Books() {
         )
       }))
     }
-    <button onClick={deleteAllItems}>{buttonText}</button>
+    <button onClick={deleteAllItems} className='deleteAllButtonBlue'>{buttonText}</button>
     </div>
     )
 }

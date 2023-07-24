@@ -1,22 +1,27 @@
 export const data = [
     {
         id: 1,
-        book: 'Teddy bear'
+        book: 'Teddy bear',
+        showMore: false
     },
     {
         id: 2,
-        book: 'Prince'
+        book: 'Prince',
+        showMore: false
     },
     {
         id: 3,
-        book: 'War and Peace'
+        book: 'War and Peace',
+        showMore: false
     },
     {
         id: 4,
-        book: 'To be or not to be'
+        book: 'To be or not to be',
+        showMore: false
     },
     {
         id: 5,
-        book: 'Anzhelika'
+        book: 'Anzhelika',
+        showMore: false
     }
 ]
